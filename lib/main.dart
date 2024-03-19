@@ -6,5 +6,5 @@ Future<void> main() async {
   await System().init();
 
   WidgetsFlutterBinding.ensureInitialized();
-  runApp(const AppCore());
+   runApp(const AppCore());
 }
