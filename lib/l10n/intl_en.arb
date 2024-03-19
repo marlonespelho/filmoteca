@@ -1,0 +1,23 @@
+{
+  "badRequestExceptionMessage": "Bad request, please check the data and try again.",
+  "unauthorizedExceptionMessage": "Unauthorized",
+  "unauthorizedAlertMessage": "Your session has expired, please log in again to continue using the application.",
+  "notFoundExceptionMessage": "Not found.",
+  "noConnectionExceptionMessage": "No connection.",
+  "timeOutExceptionMessage": "Request timeout.",
+  "defaultExceptionMessage": "Service unavailable at the moment, please try again later.",
+  "theMostPopularMoviesLabel": "The most popular",
+  "releaseDateLabel": "{value}",
+  "categoryMoviesEmptyLabel": "category movies empty",
+  "topRatedMoviesLabel": "Top rated",
+  "upcomingMoviesLabel": "Upcoming",
+  "nowPlayingMoviesLabel": "Now playing",
+  "discoverMoviesLabel": "Discover",
+  "showMoreLabel": "Show more",
+  "releaseAtLabel": "Release at: {value}",
+  "castTitleLabel": "Cast",
+  "similarMoviesTitleLabel": "Similar movies",
+  "searchLabel": "Search",
+  "searchHintLabel": "Search for movies",
+  "searchEmptyLabel": "No results found"
+}

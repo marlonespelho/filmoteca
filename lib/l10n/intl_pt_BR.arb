@@ -1,0 +1,23 @@
+{
+  "badRequestExceptionMessage": "Requisição má sucedida, verifique os dados e tente novamente.",
+  "unauthorizedExceptionMessage": "Não autorizado",
+  "unauthorizedAlertMessage": "Sua sessão expirou, faça login novamente para continuar utilizando o aplicativo.",
+  "notFoundExceptionMessage": "Não encontrado.",
+  "noConnectionExceptionMessage": "Sem conexão.",
+  "timeOutExceptionMessage": "Tempo de requisição expirado.",
+  "defaultExceptionMessage": "Serviço indisponível no momento, tente novamente mais tarde.",
+  "theMostPopularMoviesLabel": "Os Mais Populares",
+  "releaseDateLabel": "{value}",
+  "categoryMoviesEmptyLabel": "Nenhum filme encontrado.",
+  "topRatedMoviesLabel": "Melhores Avaliados",
+  "upcomingMoviesLabel": "Próximos Lançamentos",
+  "nowPlayingMoviesLabel": "Em Cartaz",
+  "discoverMoviesLabel": "Descubra",
+  "showMoreLabel": "Ver Mais",
+  "releaseAtLabel": "Lançamento: {value}",
+  "castTitleLabel": "Elenco",
+  "similarMoviesTitleLabel": "Filmes Similares",
+  "searchLabel": "Buscar",
+  "searchHintLabel": "Nome do filme...",
+  "searchEmptyLabel": "Nenhum filme encontrado."
+}
